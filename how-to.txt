@@ -35,5 +35,9 @@ Summer of Code - How To
 	-git checkout ‘file’
 
 vi is a mode editor
+Enter message in vi mode
+Hit escape to do this
+Then hit shift Z to go back into command mode
+
 
 
